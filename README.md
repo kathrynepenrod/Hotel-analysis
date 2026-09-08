@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" alt="Hotel Analytics Logo" src="https://github.com/user-attachments/assets/fed75f82-aa6b-46d2-a7b0-bf46e0277566" />
+  <img width="800" height="500" alt="<img width="1092" height="589" alt="image" src="https://github.com/user-attachments/assets/93970db1-fa1c-4602-9654-ad5ed673dca3" />
   <h1>Hotel Operations: Exploratory Data Analysis</h1>
   <p><em>An exploratory data analysis (EDA) project examining hotel operational metrics to uncover actionable insights regarding guest demands, parking space optimization, and revenue trends.</em></p>
 </div>
