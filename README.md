@@ -63,7 +63,7 @@
 
 <h2>Repository Structure</h2>
 <pre><code>
-├── data/                  # Raw and cleaned datasets (excluded from version control)
+├── data/                  # Raw datasets
 ├── notebooks/             # Jupyter notebooks for exploratory data analysis
 ├── visualizations/        # Exported charts and summary plots
 └── README.md              # Project documentation
